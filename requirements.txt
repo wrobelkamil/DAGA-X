@@ -1,0 +1,6 @@
+tkcalendar
+sv-ttk
+pillow
+openpyxl
+pywin32
+requests
