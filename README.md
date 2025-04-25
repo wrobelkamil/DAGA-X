@@ -143,7 +143,12 @@ Please follow the existing code style and add tests where applicable.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Copyright (c) 2025 Kamil Wróbel
+
+All rights reserved.
+
+This software is proprietary and confidential.  
+Unauthorized copying, distribution, modification, or commercial use is strictly prohibited without explicit written permission from the author.
 
 ---
 
